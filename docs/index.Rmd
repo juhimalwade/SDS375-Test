@@ -5,7 +5,7 @@ output: html_document
 
 This website is about Juhi Malwade. She is a third-year majoring in Statistics & Data Science and Math with a certificate in Programming and Computation at the University of Texas at Austin. This semester she is taking Data Product Development with Dr. Peng. In her free time she enjoys doing yoga, going on runs, hiking, and crocheting. 
 
-She went to Banff National Park this summer. The hikes were beautiful and the weather was amazing.
+She went to Banff National Park this summer. The hikes and the weather were beautiful.
 
 ![](Banff_Lake.jpeg){#id .class width=50% height=50%}
 
